@@ -17,4 +17,7 @@
 2. `pull requests` 메뉴에 들어갑니다.
 3. 오른쪽에 보이는 `new pull request`버튼을 눌러줍니다.
 4. 만약 compare 항목이 master로 되어있으면 develop으로 바꿔주고 base 항목도 마찬가지입니다.
-5. 
+5. `create pull request`의 초록색 박스를 눌러줍니다.
+6. 자신이 쓰고 싶은 내용을 써주고 create pull request 버튼을 눌러줍니다. 
+7. 밑에 보이는 `merge pull request`버튼을 누르고 `confirm merge` 버튼을 눌러줍니다.
+8. 끝!!!
